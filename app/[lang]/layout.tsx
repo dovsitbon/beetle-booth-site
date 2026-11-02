@@ -11,9 +11,9 @@ import { Intro } from "@/components/Intro";
 import { SmoothScroll } from "@/components/SmoothScroll";
 import { WhatsAppFloat } from "@/components/WhatsAppFloat";
 
-// Seules les polices des grands titres sont préchargées (LCP) ; les autres arrivent en swap.
+// Seule Playfair (logo de l'ouverture = élément LCP) est préchargée ; les autres arrivent en swap.
 const playfair = Playfair_Display({ subsets: ["latin"], weight: ["400"], variable: "--font-playfair", display: "swap" });
-const frank = Frank_Ruhl_Libre({ subsets: ["hebrew"], weight: ["300"], variable: "--font-frank", display: "swap" });
+const frank = Frank_Ruhl_Libre({ subsets: ["hebrew"], weight: ["300"], variable: "--font-frank", display: "swap", preload: false });
 const karla = Karla({ subsets: ["latin"], weight: ["400", "500"], variable: "--font-karla", display: "swap", preload: false });
 const assistant = Assistant({ subsets: ["hebrew", "latin"], weight: ["400", "600"], variable: "--font-assistant", display: "swap", preload: false });
 const special = Special_Elite({ subsets: ["latin"], weight: ["400"], variable: "--font-special", display: "swap", preload: false });
