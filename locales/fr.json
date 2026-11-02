@@ -1,0 +1,303 @@
+{
+  "lang": "fr",
+  "meta": {
+    "homeTitle": "Photo booth vintage pour vos événements en Israël | Beetle Booth",
+    "homeDescription": "Une vraie Coccinelle vintage devenue photo booth, sur votre événement en Israël : magnets instantanés, selfie booth, tirages sur verre, livre d'or audio.",
+    "notFoundTitle": "Page introuvable | Beetle Booth"
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "menu": "Menu",
+    "close": "Fermer",
+    "home": "Accueil",
+    "language": "Langue",
+    "experience": "L'expérience",
+    "packages": "Formules",
+    "events": "Événements",
+    "story": "Notre histoire",
+    "contact": "Contact",
+    "checkDate": "Vérifier ma date",
+    "checkDateShort": "Date"
+  },
+  "intro": { "skip": "Passer" },
+  "hero": {
+    "eyebrow": "LUXURY PHOTO BOOTH EXPERIENCE · ISRAEL",
+    "title": "Pas un photo booth de plus",
+    "sub": "Une vraie Coccinelle vintage qui arrive sur votre événement, ouvre ses portières et devient l'endroit où tout le monde veut sa photo.",
+    "ctaDate": "Voir les disponibilités",
+    "ctaWhatsapp": "WhatsApp",
+    "alt": "Coccinelle vintage crème à l'intérieur illuminé, lors d'un mariage au coucher du soleil sous les palmiers"
+  },
+  "manifesto": {
+    "eyebrow": "BEETLE BOOTH · ISRAËL",
+    "title": "Vous amenez les invités. On s'occupe du reste.",
+    "text": "On arrive, on ouvre, on installe, et très vite la Coccinelle fait partie de la fête. Les invités montent à bord, rient, posent et repartent avec leur photo imprimée à la main. Et vous ? Vous profitez simplement de votre événement.",
+    "abroad": "Vous organisez un événement en Israël depuis l'étranger ? On règle tout par WhatsApp, en français."
+  },
+  "services": {
+    "eyebrow": "L'expérience",
+    "title": "Ce qui attend vos invités",
+    "items": [
+      {
+        "id": "magnets",
+        "name": "Magnets",
+        "nameLocal": "Tirages instantanés",
+        "text": "Chaque photo est imprimée sur place, dans un design créé pour votre événement avec vos prénoms et la date. Vos invités la rapportent chez eux, et elle reste des années sur le frigo.",
+        "alt": "Bandes photo imprimées avec des nœuds blancs, tenues à la main"
+      },
+      {
+        "id": "selfie",
+        "name": "Selfie Booth",
+        "nameLocal": "Borne rétro",
+        "text": "Une borne en bois au style rétro avec un anneau lumineux. On se place, on sourit, et la photo sort déjà. Simple pour la grand-mère comme pour les enfants.",
+        "alt": "Borne selfie en bois avec anneau lumineux et écran, pendant un événement"
+      },
+      {
+        "id": "glass",
+        "name": "Glass Prints",
+        "nameLocal": "Tirages sur verre",
+        "text": "La plus belle photo de la soirée, imprimée sur verre. Un souvenir haut de gamme pour ceux qu'on fête, qui ne finira pas oublié dans un album.",
+        "alt": ""
+      },
+      {
+        "id": "audio",
+        "name": "Audio Memories",
+        "nameLocal": "Livre d'or audio",
+        "text": "On décroche le combiné et on laisse un message. En fin de soirée, vous recevez tous les enregistrements : les rires, les larmes et les mots que personne n'aurait écrits dans un livre d'or.",
+        "alt": ""
+      }
+    ]
+  },
+  "decor": {
+    "eyebrow": "Pas juste un coin magnets",
+    "title": "Intégré au décor, le photo booth devient une attraction",
+    "text": "La plupart des gens réservent un photo booth et le poussent dans un coin. Nous faisons l'inverse : la Coccinelle se place à l'entrée ou face à la vue, s'accorde au thème de l'événement, et les souvenirs sont dessinés dans le même esprit. Ce n'est plus une prestation à côté. C'est une partie de l'histoire.",
+    "points": ["Un emplacement qui attire le regard : entrée, piste ou vue", "Un cadre photo à vos couleurs et à vos prénoms", "Fleurs, panneaux et lumière en accord avec votre décor"],
+    "alt": "Coccinelle crème avec un bouquet de fleurs roses et rouges sur l'aile et une lumière chaude à l'intérieur"
+  },
+  "statement": {
+    "eyebrow": "21 secondes",
+    "title": "Oui, on arrive vraiment en Coccinelle.",
+    "text": "Et oui, tout le monde dit « waouh » à la fin.",
+    "alt": "Coccinelle vintage sur un tapis rouge, sur la promenade d'Ashkelon au coucher du soleil"
+  },
+  "packages": {
+    "eyebrow": "Formules",
+    "title": "Choisissez votre expérience",
+    "intro": "Trois formules qui s'adaptent à chaque événement. Toutes comprennent un design photo personnalisé et un membre de notre équipe sur place du début à la fin.",
+    "from": "À partir de ",
+    "onRequest": "Tarif selon l'événement",
+    "hours": "{n} heures sur place",
+    "includesTitle": "Inclus",
+    "popular": "La plus demandée",
+    "book": "Réserver la date",
+    "optionsTitle": "Options pour toutes les formules",
+    "perHour": "l'heure",
+    "note": "Le prix final dépend de la date, du lieu et des horaires. Envoyez une demande et nous revenons vers vous avec un devis clair.",
+    "includes": {
+      "beetle": "La Coccinelle sur place, intégrée au décor",
+      "selfieBooth": "Selfie booth avec anneau lumineux",
+      "magnetsUnlimited": "Tirages magnets illimités",
+      "frameNames": "Cadre photo avec vos prénoms et la date",
+      "audio": "Audio Memories, le livre d'or audio",
+      "glassHosts": "Tirage sur verre pour les hôtes",
+      "redCarpet": "Tapis rouge et potelets",
+      "props": "Accessoires et pancartes rigolotes",
+      "host": "Un animateur dédié pendant tout l'événement",
+      "gallery": "Galerie numérique de toutes les photos"
+    },
+    "options": {
+      "extraHour": "Heure supplémentaire",
+      "album": "Album livre d'or avec un exemplaire de chaque photo",
+      "customFrame": "Cadre sur mesure selon votre thème",
+      "glassPrints": "Tirages sur verre",
+      "audio": "Audio Memories",
+      "redCarpet": "Tapis rouge et potelets"
+    }
+  },
+  "events": {
+    "eyebrow": "Événements",
+    "title": "Pour quelle occasion ?",
+    "intro": "En intérieur ou en extérieur, de jour comme de nuit, du mariage au festival municipal sur la plage.",
+    "items": [
+      { "id": "wedding", "name": "Mariages", "text": "La Coccinelle à l'entrée, les magnets qui attendent les invités à la sortie.", "alt": "La Coccinelle illuminée lors d'un mariage en soirée, avec une pancarte Mr & Mrs" },
+      { "id": "mitzvah", "name": "Bar et bat mitzvah", "text": "Tous les copains se serrent à l'intérieur. Les fous rires sont déjà sur la photo.", "alt": "Des adolescents qui rient dans la Coccinelle" },
+      { "id": "brit", "name": "Brit et naissances", "text": "Tout le monde fait venir un photographe. Pas tout le monde l'attraction dont les invités parlent encore.", "alt": "Borne selfie en bois à côté d'une arche de ballons et d'ours en peluche lors d'une brit" },
+      { "id": "birthday", "name": "Anniversaires", "text": "1 an ou 40 ans, une photo à la main pour chacun.", "alt": "Photos imprimées d'une fête d'anniversaire" },
+      { "id": "purim", "name": "Pourim et soirées", "text": "Déguisements, accessoires et une file qui ne désemplit pas.", "alt": "Des enfants avec des accessoires rigolos dans la Coccinelle" },
+      { "id": "corporate", "name": "Entreprises", "text": "Lancements, congrès et soirées d'équipe, avec votre marque sur chaque photo.", "alt": "Bande photo aux couleurs d'une marque lors d'un lancement" },
+      { "id": "municipal", "name": "Municipalités et plein air", "text": "Sur la plage, dans un parc ou sur une place. Comme pour Tou BeAv sur les plages d'Ashkelon.", "alt": "Installation de la Coccinelle sur un tapis rouge, promenade d'Ashkelon" },
+      { "id": "summer", "name": "Journée et été", "text": "Lumière naturelle, la mer et le coucher du soleil. La Coccinelle connaît son meilleur profil.", "alt": "Un bébé assis sur le capot de la Coccinelle face à la mer au coucher du soleil" }
+    ]
+  },
+  "steps": {
+    "eyebrow": "Comment ça marche",
+    "title": "Quatre étapes, zéro prise de tête",
+    "items": [
+      { "title": "Vous choisissez la date", "text": "Un jour dans le calendrier, et nous confirmons que la Coccinelle est libre." },
+      { "title": "Formule et design", "text": "On choisit ensemble la formule et on dessine votre cadre photo avec vos prénoms, la date et vos couleurs." },
+      { "title": "La Coccinelle arrive", "text": "On arrive avant vos invités, on installe et on s'intègre au décor. Vous n'avez rien à faire." },
+      { "title": "Vos invités repartent avec un souvenir", "text": "Des photos imprimées, des messages audio et des moments qui restent bien après la dernière chanson." }
+    ]
+  },
+  "story": {
+    "eyebrow": "Notre histoire",
+    "title": "Comment tout a commencé",
+    "paragraphs": [
+      "Un peu de vintage, beaucoup de caractère, et deux personnes qui ont un peu exagéré avec leur rêve.",
+      "Notre Coccinelle n'a pas toujours eu cette allure. Avant la magie, elle était rouillée, la tôle à nu et le volant fatigué. On l'a démontée, poncée, retapissée de cuir crème, on a ajouté une lumière chaude et construit une cabine photo à l'intérieur. Derrière chaque petit détail, il y a Adir, qui a tout construit de ses mains.",
+      "Et derrière la Coccinelle, il y a un couple marié, un peu fou, qui aime tout simplement ce qu'il fait. Pour nous, ce n'est jamais une réservation de plus. C'est le moment où quelqu'un monte à bord, regarde autour de lui et dit : waouh."
+    ],
+    "quote": "POV : on est en 2026, mais vous avez réservé un photo booth qui vous fait voyager dans le temps.",
+    "altBefore": "L'intérieur de la Coccinelle avant restauration : tôle rouillée et vieux volant",
+    "altWork": "Adir installe le nouveau siège crème dans la Coccinelle",
+    "altFounder": "Adir debout à côté de la Coccinelle"
+  },
+  "gallery": {
+    "eyebrow": "Souvenirs",
+    "title": "Des moments qui restent",
+    "open": "Agrandir la photo",
+    "close": "Fermer",
+    "prev": "Photo précédente",
+    "next": "Photo suivante",
+    "alts": [
+      "Deux bandes photo d'un couple avec des nœuds blancs",
+      "Des filles qui rient dans la Coccinelle au coucher du soleil",
+      "Bandes photo sur carton kraft avec fleurs séchées",
+      "Des enfants avec des accessoires rigolos dans la Coccinelle",
+      "Bande photo avec une couronne de fleurs",
+      "Des amis qui posent devant un mur de briques",
+      "Bandes photo sur carton noir avec des nœuds",
+      "Un bébé assis sur le capot de la Coccinelle au coucher du soleil",
+      "Une fillette qui tient un éventail de bandes photo",
+      "Bandes photo d'une bat mitzvah",
+      "Bande photo levée devant un coucher de soleil sur la mer",
+      "L'anneau lumineux dans la Coccinelle, avec des accessoires",
+      "Bande photo aux couleurs d'une marque lors d'un lancement",
+      "Bandes photo sur le capot de la Coccinelle à côté de fleurs"
+    ]
+  },
+  "trust": {
+    "eyebrow": "Ils nous ont fait confiance",
+    "title": "On y était",
+    "items": [
+      { "title": "Le mariage de Raz et Naama", "place": "Septembre 2025", "text": "La Coccinelle accueillait les mariés et leurs invités à l'entrée, avec la pancarte du mariage et un QR code vers la galerie.", "alt": "Le marié ouvre la portière de la Coccinelle à la mariée, à côté de la pancarte du mariage de Raz et Naama" },
+      { "title": "Tou BeAv sur les plages d'Ashkelon", "place": "Avec la municipalité d'Ashkelon", "text": "Un tapis rouge sur la promenade, des milliers de sourires et un petit souvenir pour chaque couple, famille et bande d'amis.", "alt": "Une invitée marche sur le tapis rouge vers la Coccinelle, en bord de mer à Ashkelon" },
+      { "title": "La bat mitzvah de Shira", "place": "Selfie booth", "text": "Toutes les copines, tous les fous rires, et chacune est repartie avec sa photo.", "alt": "Ballon chiffre et décor de la bat mitzvah de Shira" }
+    ],
+    "reviewsTitle": "Ce qu'on dit de nous"
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Tout ce que vous voulez savoir",
+    "items": [
+      { "q": "Quelle place faut-il prévoir ?", "a": "La Coccinelle a besoin d'un sol plat et d'un accès véhicule, à peu près une place de parking avec un peu d'espace autour. Pour le selfie booth, environ deux mètres sur deux suffisent. Nous vérifions le lieu avec vous à l'avance." },
+      { "q": "Faut-il de l'électricité ?", "a": "Oui, une prise standard près de l'emplacement. S'il n'y en a pas, dites-le-nous et on trouvera une solution." },
+      { "q": "Combien de temps dure l'installation ?", "a": "Nous arrivons avant vos invités et nous sommes prêts avant le début de l'événement. Vous n'avez rien à faire." },
+      { "q": "Où vous déplacez-vous ?", "a": "Nous venons sur les événements partout en Israël. Les frais de déplacement dépendent de la distance et figurent dans le devis." },
+      { "q": "Est-ce possible en extérieur ?", "a": "Bien sûr. Nous avons fait des plages, des jardins et des salles. Dehors, il faut un sol stable, et si la pluie est annoncée, on prévoit un emplacement couvert." },
+      { "q": "Combien de temps à l'avance réserver ?", "a": "Le plus tôt possible. En saison des mariages, les dates partent des mois à l'avance. Regardez le calendrier pour voir si la vôtre est encore libre." }
+    ]
+  },
+  "booking": {
+    "eyebrow": "Réserver une date",
+    "title": "Voyons si la Coccinelle est libre",
+    "intro": "Choisissez une date, parlez-nous de votre événement et nous vous répondons sur WhatsApp avec une confirmation et un devis. Sans engagement.",
+    "stepDate": "La date",
+    "stepEvent": "L'événement",
+    "stepPackage": "La formule",
+    "stepFrame": "Le design photo",
+    "stepContact": "Vos coordonnées",
+    "calendar": {
+      "prev": "Mois précédent",
+      "next": "Mois suivant",
+      "available": "Libre",
+      "booked": "Réservé",
+      "selected": "Choisi",
+      "weekdays": ["di", "lu", "ma", "me", "je", "ve", "sa"],
+      "chosen": "Votre date : {date}",
+      "none": "Aucune date choisie pour l'instant",
+      "bookedNote": "Cette date est déjà réservée. Écrivez-nous quand même, il y a parfois une solution."
+    },
+    "fields": {
+      "eventType": "Type d'événement",
+      "eventTypeOther": "Autre",
+      "timeFrom": "De",
+      "timeTo": "À",
+      "venue": "Lieu",
+      "city": "Ville",
+      "guests": "Nombre d'invités approximatif",
+      "package": "Formule",
+      "packageUnsure": "Je ne sais pas encore, conseillez-moi",
+      "options": "Options",
+      "frameNames": "Prénoms sur la photo",
+      "frameNamesHint": "ex. Raz & Naama",
+      "frameDate": "Date sur la photo",
+      "frameColors": "Couleurs ou thème",
+      "frameColorsHint": "ex. blanc, vert olive et doré",
+      "name": "Nom complet",
+      "phone": "Téléphone",
+      "email": "E-mail (pour la confirmation)",
+      "notes": "Remarques",
+      "choose": "Choisir"
+    },
+    "submit": "Envoyer la demande sur WhatsApp",
+    "sending": "Envoi…",
+    "privacy": "Vos coordonnées servent uniquement à vous recontacter au sujet de votre événement.",
+    "successTitle": "Votre demande est partie",
+    "successText": "WhatsApp s'est ouvert avec tous les détails. Envoyez le message et nous vous répondons rapidement. S'il ne s'est pas ouvert :",
+    "successLink": "Ouvrir WhatsApp",
+    "again": "Nouvelle demande",
+    "depositTitle": "Envie de bloquer la date tout de suite ?",
+    "depositText": "Un acompte de {amount} réserve votre date. Le solde se règle le jour J.",
+    "depositButton": "Payer l'acompte",
+    "errors": {
+      "date": "Choisissez une date dans le calendrier",
+      "required": "Champ obligatoire",
+      "phone": "Ce numéro de téléphone semble incorrect",
+      "email": "Cette adresse e-mail semble incorrecte",
+      "deposit": "Le paiement n'est pas disponible pour le moment. Vous pouvez envoyer votre demande sur WhatsApp."
+    },
+    "message": {
+      "title": "Nouvelle demande depuis le site · Beetle Booth",
+      "event": "Événement",
+      "date": "Date",
+      "time": "Horaires",
+      "venue": "Lieu",
+      "guests": "Invités",
+      "package": "Formule",
+      "options": "Options",
+      "frame": "Design photo",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "notes": "Remarques",
+      "ref": "N° de demande",
+      "closing": "Pouvez-vous me dire si la date est libre et quel est le tarif ? Merci !"
+    }
+  },
+  "footer": {
+    "areasTitle": "Zones desservies",
+    "areas": "Événements partout en Israël",
+    "contactTitle": "Nous écrire",
+    "followTitle": "Nous suivre",
+    "rights": "Tous droits réservés",
+    "businessId": "N° d'entreprise",
+    "legal": "Un problème sur le site ? Écrivez-nous sur WhatsApp et on le corrige.",
+    "photos": "Toutes les photos du site ont été prises lors de nos événements."
+  },
+  "whatsapp": {
+    "float": "Discuter sur WhatsApp",
+    "hello": "Bonjour ! Je viens du site Beetle Booth et j'aimerais vérifier une date"
+  },
+  "email": {
+    "subjectBusiness": "Nouvelle demande de réservation depuis le site",
+    "subjectClient": "Nous avons bien reçu votre demande · Beetle Booth",
+    "intro": "Bonjour, merci pour votre message ! Nous avons bien reçu votre demande et nous vous répondons rapidement sur WhatsApp. Voici les détails envoyés :"
+  },
+  "notFound": {
+    "title": "La Coccinelle s'est trompée de route",
+    "text": "La page que vous cherchez n'existe pas. Revenons sur la route principale.",
+    "back": "Retour à l'accueil"
+  }
+}

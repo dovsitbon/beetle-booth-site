@@ -1,0 +1,303 @@
+{
+  "lang": "es",
+  "meta": {
+    "homeTitle": "Fotomatón vintage para eventos en Israel | Beetle Booth",
+    "homeDescription": "Un auténtico Escarabajo vintage convertido en fotomatón para tu evento en Israel: imanes al instante, selfie booth, impresiones en vidrio y mensajes de voz.",
+    "notFoundTitle": "Página no encontrada | Beetle Booth"
+  },
+  "nav": {
+    "skip": "Ir al contenido",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "home": "Inicio",
+    "language": "Idioma",
+    "experience": "La experiencia",
+    "packages": "Paquetes",
+    "events": "Eventos",
+    "story": "Nuestra historia",
+    "contact": "Contacto",
+    "checkDate": "Consultar fecha",
+    "checkDateShort": "Fecha"
+  },
+  "intro": { "skip": "Saltar" },
+  "hero": {
+    "eyebrow": "LUXURY PHOTO BOOTH EXPERIENCE · ISRAEL",
+    "title": "No es un fotomatón más",
+    "sub": "Un auténtico Escarabajo vintage que llega a tu evento, abre sus puertas y se convierte en el lugar donde todos quieren su foto.",
+    "ctaDate": "Ver disponibilidad",
+    "ctaWhatsapp": "WhatsApp",
+    "alt": "Escarabajo vintage color crema con el interior iluminado, en una boda al atardecer entre palmeras"
+  },
+  "manifesto": {
+    "eyebrow": "BEETLE BOOTH · ISRAEL",
+    "title": "Tú trae a la gente. Nosotros nos ocupamos del resto.",
+    "text": "Llegamos, abrimos, montamos, y en poco tiempo el Escarabajo ya es parte de la fiesta. Los invitados se suben, se ríen, posan y se van con su foto impresa en la mano. ¿Y tú? Solo disfrutas de tu evento.",
+    "abroad": "¿Organizas un evento en Israel desde el extranjero? Lo coordinamos todo por WhatsApp, en español."
+  },
+  "services": {
+    "eyebrow": "La experiencia",
+    "title": "Lo que espera a tus invitados",
+    "items": [
+      {
+        "id": "magnets",
+        "name": "Magnets",
+        "nameLocal": "Imanes al instante",
+        "text": "Cada foto se imprime en el momento, con un diseño creado para tu evento con vuestros nombres y la fecha. Los invitados se la llevan a casa y se queda años en la nevera.",
+        "alt": "Tiras de fotos impresas con lazos blancos, sostenidas en la mano"
+      },
+      {
+        "id": "selfie",
+        "name": "Selfie Booth",
+        "nameLocal": "Cabina retro",
+        "text": "Una cabina de madera de estilo retro con aro de luz. Te pones, sonríes y la foto ya está saliendo. Fácil para la abuela y para los niños.",
+        "alt": "Cabina selfie de madera con aro de luz y pantalla en un evento"
+      },
+      {
+        "id": "glass",
+        "name": "Glass Prints",
+        "nameLocal": "Impresión en vidrio",
+        "text": "La mejor foto de la noche, impresa en vidrio. Un recuerdo de lujo para los anfitriones que no se pierde en un álbum.",
+        "alt": ""
+      },
+      {
+        "id": "audio",
+        "name": "Audio Memories",
+        "nameLocal": "Libro de firmas de voz",
+        "text": "Descuelgas el auricular y dejas un mensaje. Al final de la noche recibes todas las grabaciones: las risas, las lágrimas y lo que nadie escribiría en un libro de firmas.",
+        "alt": ""
+      }
+    ]
+  },
+  "decor": {
+    "eyebrow": "No es solo un rincón de imanes",
+    "title": "Integrado en la decoración, el fotomatón se vuelve atracción",
+    "text": "La mayoría reserva un fotomatón y lo deja en una esquina. Nosotros lo hacemos al revés: colocamos el Escarabajo en la entrada o frente a las vistas, lo adaptamos al concepto del evento y diseñamos los recuerdos con el mismo estilo. Así deja de ser un servicio aparte y pasa a ser parte de la historia.",
+    "points": ["Un lugar que atrae miradas: entrada, pista o vistas", "Un marco de foto con vuestros colores y nombres", "Flores, carteles y luz que encajan con tu decoración"],
+    "alt": "Escarabajo crema con flores rosas y rojas sobre la aleta y una luz cálida en el interior"
+  },
+  "statement": {
+    "eyebrow": "21 segundos",
+    "title": "Sí, de verdad llegamos en un Escarabajo.",
+    "text": "Y sí, todos dicen «guau» al final.",
+    "alt": "Escarabajo vintage sobre una alfombra roja en el paseo marítimo de Ashkelon al atardecer"
+  },
+  "packages": {
+    "eyebrow": "Paquetes",
+    "title": "Elige tu experiencia",
+    "intro": "Tres paquetes que se adaptan a cualquier evento. Todos incluyen un diseño de foto personalizado y alguien de nuestro equipo durante todo el evento.",
+    "from": "Desde ",
+    "onRequest": "Precio según el evento",
+    "hours": "{n} horas en el evento",
+    "includesTitle": "Incluye",
+    "popular": "El más pedido",
+    "book": "Reservar fecha",
+    "optionsTitle": "Extras para cualquier paquete",
+    "perHour": "por hora",
+    "note": "El precio final depende de la fecha, el lugar y el horario. Envía tu solicitud y te respondemos con un presupuesto claro.",
+    "includes": {
+      "beetle": "El Escarabajo en el lugar, integrado en la decoración",
+      "selfieBooth": "Selfie booth con aro de luz",
+      "magnetsUnlimited": "Imanes impresos sin límite",
+      "frameNames": "Marco con vuestros nombres y la fecha",
+      "audio": "Audio Memories, libro de firmas de voz",
+      "glassHosts": "Impresión en vidrio para los anfitriones",
+      "redCarpet": "Alfombra roja y postes",
+      "props": "Accesorios y carteles divertidos",
+      "host": "Un anfitrión dedicado todo el evento",
+      "gallery": "Galería digital con todas las fotos"
+    },
+    "options": {
+      "extraHour": "Hora extra",
+      "album": "Álbum de firmas con una copia de cada foto",
+      "customFrame": "Marco a medida según tu concepto",
+      "glassPrints": "Impresiones en vidrio",
+      "audio": "Audio Memories",
+      "redCarpet": "Alfombra roja y postes"
+    }
+  },
+  "events": {
+    "eyebrow": "Eventos",
+    "title": "¿Qué celebras?",
+    "intro": "Dentro o fuera, de día o de noche, de una boda a una fiesta municipal en la playa.",
+    "items": [
+      { "id": "wedding", "name": "Bodas", "text": "El Escarabajo en la entrada, los imanes esperando a los invitados a la salida.", "alt": "El Escarabajo iluminado en una boda de noche con un cartel Mr & Mrs" },
+      { "id": "mitzvah", "name": "Bar y bat mitzvah", "text": "Todos los amigos se meten dentro. Las risas ya están en la foto.", "alt": "Adolescentes riendo dentro del Escarabajo" },
+      { "id": "brit", "name": "Brit y nacimientos", "text": "Todos llevan fotógrafo. No todos llevan la atracción de la que los invitados siguen hablando.", "alt": "Cabina selfie de madera junto a un arco de globos y osos de peluche en un brit" },
+      { "id": "birthday", "name": "Cumpleaños", "text": "1 año o 40, una foto en la mano para cada uno.", "alt": "Fotos impresas de una fiesta de cumpleaños" },
+      { "id": "purim", "name": "Purim y fiestas", "text": "Disfraces, accesorios y una cola que no se acaba.", "alt": "Niños con accesorios divertidos dentro del Escarabajo" },
+      { "id": "corporate", "name": "Empresas", "text": "Lanzamientos, congresos y noches de equipo, con tu marca en cada foto.", "alt": "Tira de fotos con marca en un evento de lanzamiento" },
+      { "id": "municipal", "name": "Municipios y aire libre", "text": "En la playa, en un parque o en una plaza. Como en Tu BeAv en las playas de Ashkelon.", "alt": "Montando el Escarabajo sobre una alfombra roja en el paseo de Ashkelon" },
+      { "id": "summer", "name": "Día y verano", "text": "Luz natural, el mar y el atardecer. El Escarabajo sabe posar.", "alt": "Un bebé sentado en el capó del Escarabajo frente al mar al atardecer" }
+    ]
+  },
+  "steps": {
+    "eyebrow": "Cómo funciona",
+    "title": "Cuatro pasos, cero complicaciones",
+    "items": [
+      { "title": "Consultas la fecha", "text": "Eliges un día en el calendario y confirmamos que el Escarabajo está libre." },
+      { "title": "Paquete y diseño", "text": "Elegimos juntos el paquete y diseñamos el marco de tu foto con vuestros nombres, la fecha y los colores." },
+      { "title": "Llega el Escarabajo", "text": "Llegamos antes que los invitados, montamos y nos integramos en la decoración. Tú no tienes que hacer nada." },
+      { "title": "Los invitados se llevan un recuerdo", "text": "Fotos impresas, mensajes de voz y momentos que duran mucho después de la última canción." }
+    ]
+  },
+  "story": {
+    "eyebrow": "Nuestra historia",
+    "title": "Cómo empezó todo",
+    "paragraphs": [
+      "Un poco de vintage, mucho carácter y dos personas que se pasaron un poco con su sueño.",
+      "Nuestro Escarabajo no siempre fue así. Antes de la magia estaba oxidado, con la chapa pelada y un volante cansado. Lo desmontamos, lo lijamos, lo retapizamos en cuero crema, le pusimos luz cálida y construimos dentro una cabina de fotos. Detrás de cada pequeño detalle está Adir, que lo construyó todo con sus propias manos.",
+      "Y detrás del Escarabajo hay una pareja casada, un poco loca, a la que simplemente le encanta lo que hace. Para nosotros nunca es una reserva más. Es el momento en que alguien se sube, mira alrededor y dice: guau."
+    ],
+    "quote": "POV: estás en 2026, pero reservaste un fotomatón que te llevó de viaje en el tiempo.",
+    "altBefore": "El interior del Escarabajo antes de la restauración: chapa oxidada y un volante viejo",
+    "altWork": "Adir colocando el nuevo asiento crema dentro del Escarabajo",
+    "altFounder": "Adir junto al Escarabajo"
+  },
+  "gallery": {
+    "eyebrow": "Recuerdos",
+    "title": "Momentos que se quedan",
+    "open": "Ampliar foto",
+    "close": "Cerrar",
+    "prev": "Foto anterior",
+    "next": "Foto siguiente",
+    "alts": [
+      "Dos tiras de fotos de una pareja con lazos blancos",
+      "Chicas riendo dentro del Escarabajo al atardecer",
+      "Tiras de fotos en cartulina kraft con flores secas",
+      "Niños con accesorios divertidos dentro del Escarabajo",
+      "Tira de fotos con una corona de flores",
+      "Amigos posando juntos frente a una pared de ladrillo",
+      "Tiras de fotos en cartulina negra con lazos",
+      "Un bebé sentado en el capó del Escarabajo al atardecer",
+      "Una niña sosteniendo un abanico de tiras de fotos",
+      "Tiras de fotos de un bat mitzvah",
+      "Tira de fotos frente a un atardecer sobre el mar",
+      "El aro de luz dentro del Escarabajo con accesorios",
+      "Tira de fotos con marca en un evento de lanzamiento",
+      "Tiras de fotos sobre el capó del Escarabajo junto a flores"
+    ]
+  },
+  "trust": {
+    "eyebrow": "Confiaron en nosotros",
+    "title": "Ya estuvimos ahí",
+    "items": [
+      { "title": "La boda de Raz y Naama", "place": "Septiembre de 2025", "text": "El Escarabajo recibió a los novios y a sus invitados en la entrada, con el cartel de la boda y un código QR a la galería.", "alt": "El novio abre la puerta del Escarabajo a la novia junto al cartel de la boda de Raz y Naama" },
+      { "title": "Tu BeAv en las playas de Ashkelon", "place": "Con el Ayuntamiento de Ashkelon", "text": "Una alfombra roja en el paseo, miles de sonrisas y un pequeño recuerdo para cada pareja, familia y grupo de amigos.", "alt": "Una invitada camina por la alfombra roja hacia el Escarabajo en la playa de Ashkelon" },
+      { "title": "El bat mitzvah de Shira", "place": "Selfie booth", "text": "Todas las amigas, todas las risas, y cada una se fue con su foto.", "alt": "Globo de número y decoración del bat mitzvah de Shira" }
+    ],
+    "reviewsTitle": "Lo que dicen de nosotros"
+  },
+  "faq": {
+    "eyebrow": "Preguntas frecuentes",
+    "title": "Todo lo que querías saber",
+    "items": [
+      { "q": "¿Cuánto espacio hace falta?", "a": "El Escarabajo necesita un suelo plano y acceso para el coche, más o menos una plaza de aparcamiento con algo de espacio alrededor. Para el selfie booth bastan unos dos por dos metros. Revisamos el lugar contigo antes." },
+      { "q": "¿Hace falta electricidad?", "a": "Sí, un enchufe normal cerca de donde nos colocaremos. Si no lo hay, avísanos y buscamos una solución." },
+      { "q": "¿Cuánto tarda el montaje?", "a": "Llegamos antes que los invitados y estamos listos antes de que empiece el evento. Tú no tienes que hacer nada." },
+      { "q": "¿A dónde vais?", "a": "Vamos a eventos en todo Israel. El coste del desplazamiento depende de la distancia y aparece en el presupuesto." },
+      { "q": "¿Se puede al aire libre?", "a": "Claro. Hemos estado en playas, jardines y salones. Fuera necesitamos un suelo estable, y si se anuncia lluvia buscamos un lugar cubierto." },
+      { "q": "¿Con cuánta antelación reservar?", "a": "Cuanto antes. En temporada de bodas las fechas se reservan con meses de antelación. Mira el calendario para ver si la tuya sigue libre." }
+    ]
+  },
+  "booking": {
+    "eyebrow": "Reservar fecha",
+    "title": "Veamos si el Escarabajo está libre",
+    "intro": "Elige una fecha, cuéntanos tu evento y te respondemos por WhatsApp con la confirmación y un presupuesto. Sin compromiso.",
+    "stepDate": "La fecha",
+    "stepEvent": "Tu evento",
+    "stepPackage": "El paquete",
+    "stepFrame": "Diseño de la foto",
+    "stepContact": "Tus datos",
+    "calendar": {
+      "prev": "Mes anterior",
+      "next": "Mes siguiente",
+      "available": "Libre",
+      "booked": "Reservado",
+      "selected": "Elegido",
+      "weekdays": ["do", "lu", "ma", "mi", "ju", "vi", "sá"],
+      "chosen": "Tu fecha: {date}",
+      "none": "Aún no has elegido fecha",
+      "bookedNote": "Esta fecha ya está reservada. Escríbenos igualmente, a veces hay solución."
+    },
+    "fields": {
+      "eventType": "Tipo de evento",
+      "eventTypeOther": "Otro",
+      "timeFrom": "Desde",
+      "timeTo": "Hasta",
+      "venue": "Lugar",
+      "city": "Ciudad",
+      "guests": "Número aproximado de invitados",
+      "package": "Paquete",
+      "packageUnsure": "Aún no lo sé, recomendadme",
+      "options": "Extras",
+      "frameNames": "Nombres en la foto",
+      "frameNamesHint": "p. ej. Raz y Naama",
+      "frameDate": "Fecha en la foto",
+      "frameColors": "Colores o concepto",
+      "frameColorsHint": "p. ej. blanco, verde oliva y dorado",
+      "name": "Nombre completo",
+      "phone": "Teléfono",
+      "email": "Email (para la confirmación)",
+      "notes": "Comentarios",
+      "choose": "Elegir"
+    },
+    "submit": "Enviar solicitud por WhatsApp",
+    "sending": "Enviando…",
+    "privacy": "Tus datos solo se usan para responderte sobre tu evento.",
+    "successTitle": "Tu solicitud está en camino",
+    "successText": "WhatsApp se abrió con todos los detalles. Envía el mensaje y te respondemos enseguida. Si no se abrió:",
+    "successLink": "Abrir WhatsApp",
+    "again": "Nueva solicitud",
+    "depositTitle": "¿Quieres asegurar la fecha ya?",
+    "depositText": "Una señal de {amount} reserva tu fecha. El resto se paga el día del evento.",
+    "depositButton": "Pagar la señal",
+    "errors": {
+      "date": "Elige una fecha en el calendario",
+      "required": "Campo obligatorio",
+      "phone": "Este teléfono no parece correcto",
+      "email": "Este email no parece correcto",
+      "deposit": "El pago no está disponible ahora mismo. Puedes enviar tu solicitud por WhatsApp."
+    },
+    "message": {
+      "title": "Nueva solicitud desde la web · Beetle Booth",
+      "event": "Evento",
+      "date": "Fecha",
+      "time": "Horario",
+      "venue": "Lugar",
+      "guests": "Invitados",
+      "package": "Paquete",
+      "options": "Extras",
+      "frame": "Diseño de la foto",
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "email": "Email",
+      "notes": "Comentarios",
+      "ref": "N.º de solicitud",
+      "closing": "¿Me podéis decir si la fecha está libre y el precio? ¡Gracias!"
+    }
+  },
+  "footer": {
+    "areasTitle": "Dónde trabajamos",
+    "areas": "Eventos en todo Israel",
+    "contactTitle": "Escríbenos",
+    "followTitle": "Síguenos",
+    "rights": "Todos los derechos reservados",
+    "businessId": "N.º de empresa",
+    "legal": "¿Has visto un problema en la web? Escríbenos por WhatsApp y lo arreglamos.",
+    "photos": "Todas las fotos de esta web se tomaron en nuestros eventos."
+  },
+  "whatsapp": {
+    "float": "Hablar por WhatsApp",
+    "hello": "¡Hola! Vengo de la web de Beetle Booth y quería consultar una fecha"
+  },
+  "email": {
+    "subjectBusiness": "Nueva solicitud de reserva desde la web",
+    "subjectClient": "Hemos recibido tu solicitud · Beetle Booth",
+    "intro": "¡Hola, gracias por escribirnos! Hemos recibido tu solicitud y te responderemos por WhatsApp muy pronto. Estos son los datos que nos enviaste:"
+  },
+  "notFound": {
+    "title": "El Escarabajo tomó un desvío equivocado",
+    "text": "La página que buscas no existe. Volvamos a la carretera principal.",
+    "back": "Volver al inicio"
+  }
+}

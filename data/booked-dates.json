@@ -1,0 +1,6 @@
+{
+  "_README": "Dates déjà réservées (AAAA-MM-JJ, ex. \"2026-12-17\") : elles apparaissent grisées dans le calendrier de réservation. À REMPLIR avec les vraies dates prises, une par événement confirmé, puis pousser sur GitHub (le site se redéploie). Plus tard : synchronisation Google Calendar (voir README).",
+  "minLeadDays": 3,
+  "maxMonthsAhead": 18,
+  "booked": []
+}

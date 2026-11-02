@@ -1,0 +1,58 @@
+{
+  "_README": "Forfaits, options et prix. TOUS LES PRIX SONT DES EXEMPLES À REMPLIR. Tant que pricesConfirmed vaut false, aucun prix n'est affiché sur le site (« prix sur devis » à la place) et l'acompte en ligne reste désactivé. hours = durée de présence incluse (à confirmer).",
+  "pricesConfirmed": false,
+  "currency": "ILS",
+  "deposit": 500,
+  "packages": [
+    {
+      "id": "classic",
+      "name": { "he": "Classic", "en": "Classic", "fr": "Classic", "es": "Classic" },
+      "tagline": {
+        "he": "עמדת הסלפי שלנו, מגנטים בלי הגבלה",
+        "en": "Our selfie booth, unlimited magnets",
+        "fr": "Notre selfie booth, magnets à volonté",
+        "es": "Nuestro selfie booth, imanes sin límite"
+      },
+      "priceFrom": 2200,
+      "hours": 3,
+      "includes": ["selfieBooth", "magnetsUnlimited", "frameNames", "props", "host"],
+      "featured": false
+    },
+    {
+      "id": "vintage",
+      "name": { "he": "Vintage", "en": "Vintage", "fr": "Vintage", "es": "Vintage" },
+      "tagline": {
+        "he": "החיפושית מגיעה, והופכת לחלק מהעיצוב",
+        "en": "The Beetle arrives and becomes part of the décor",
+        "fr": "La Coccinelle arrive et devient une pièce du décor",
+        "es": "El Escarabajo llega y se vuelve parte de la decoración"
+      },
+      "priceFrom": 3900,
+      "hours": 3,
+      "includes": ["beetle", "magnetsUnlimited", "frameNames", "props", "host", "gallery"],
+      "featured": true
+    },
+    {
+      "id": "full",
+      "name": { "he": "Full Beetle Experience", "en": "Full Beetle Experience", "fr": "Full Beetle Experience", "es": "Full Beetle Experience" },
+      "tagline": {
+        "he": "הכל. החיפושית, עמדת הסלפי והמזכרות שנשארות לתמיד",
+        "en": "Everything. The Beetle, the selfie booth and keepsakes for life",
+        "fr": "Tout. La Coccinelle, le selfie booth et des souvenirs pour toujours",
+        "es": "Todo. El Escarabajo, el selfie booth y recuerdos para siempre"
+      },
+      "priceFrom": 5900,
+      "hours": 4,
+      "includes": ["beetle", "selfieBooth", "magnetsUnlimited", "frameNames", "audio", "glassHosts", "redCarpet", "props", "host", "gallery"],
+      "featured": false
+    }
+  ],
+  "options": [
+    { "id": "extraHour", "price": 500, "per": "hour" },
+    { "id": "album", "price": 450 },
+    { "id": "customFrame", "price": 250 },
+    { "id": "glassPrints", "price": 600 },
+    { "id": "audio", "price": 900 },
+    { "id": "redCarpet", "price": 350 }
+  ]
+}

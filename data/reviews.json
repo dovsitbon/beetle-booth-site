@@ -1,0 +1,8 @@
+{
+  "_README": "<!-- À REMPLIR avec de vrais avis clients --> Avis réels uniquement (avec l'accord du client). Les avis restent masqués tant que published n'est pas true ; la section « Ils nous ont fait confiance » affiche en attendant les événements réels.",
+  "reviews": [
+    { "published": false, "name": "<!-- À REMPLIR -->", "event": "<!-- À REMPLIR : ex. mariage, Ashkelon, 2025 -->", "text": { "he": "<!-- À REMPLIR avec de vrais avis clients -->", "en": "<!-- À REMPLIR -->", "fr": "<!-- À REMPLIR -->", "es": "<!-- À REMPLIR -->" } },
+    { "published": false, "name": "<!-- À REMPLIR -->", "event": "<!-- À REMPLIR -->", "text": { "he": "<!-- À REMPLIR avec de vrais avis clients -->", "en": "<!-- À REMPLIR -->", "fr": "<!-- À REMPLIR -->", "es": "<!-- À REMPLIR -->" } },
+    { "published": false, "name": "<!-- À REMPLIR -->", "event": "<!-- À REMPLIR -->", "text": { "he": "<!-- À REMPLIR avec de vrais avis clients -->", "en": "<!-- À REMPLIR -->", "fr": "<!-- À REMPLIR -->", "es": "<!-- À REMPLIR -->" } }
+  ]
+}

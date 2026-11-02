@@ -1,0 +1,303 @@
+{
+  "lang": "en",
+  "meta": {
+    "homeTitle": "Vintage Photo Booth for Events in Israel | Beetle Booth",
+    "homeDescription": "A real vintage Beetle turned photo booth, at your event anywhere in Israel: instant magnets, selfie booth, glass prints and an audio guestbook.",
+    "notFoundTitle": "Page not found | Beetle Booth"
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "close": "Close",
+    "home": "Home",
+    "language": "Language",
+    "experience": "Experience",
+    "packages": "Packages",
+    "events": "Events",
+    "story": "Our story",
+    "contact": "Contact",
+    "checkDate": "Check your date",
+    "checkDateShort": "Date"
+  },
+  "intro": { "skip": "Skip" },
+  "hero": {
+    "eyebrow": "LUXURY PHOTO BOOTH EXPERIENCE · ISRAEL",
+    "title": "Not just another photo booth",
+    "sub": "A real vintage Beetle that drives to your event, opens its doors and becomes the spot everyone wants a picture in.",
+    "ctaDate": "Check availability",
+    "ctaWhatsapp": "WhatsApp",
+    "alt": "Cream vintage Beetle with a glowing interior at a sunset wedding among palm trees"
+  },
+  "manifesto": {
+    "eyebrow": "BEETLE BOOTH · ISRAEL",
+    "title": "You bring the people. We take care of the rest.",
+    "text": "We arrive, open up, set up, and before long the Beetle is part of the party. Guests climb in, laugh, pose and walk away with a printed photo in hand. And you? You just enjoy your event.",
+    "abroad": "Planning an event in Israel from abroad? We sort everything out over WhatsApp, in English."
+  },
+  "services": {
+    "eyebrow": "The experience",
+    "title": "What's waiting for your guests",
+    "items": [
+      {
+        "id": "magnets",
+        "name": "Magnets",
+        "nameLocal": "Instant prints",
+        "text": "Every photo is printed on the spot, in a design we create for your event with your names and date. Guests take it home and it lives on the fridge for years.",
+        "alt": "Printed photo strips with white bows, held in a hand"
+      },
+      {
+        "id": "selfie",
+        "name": "Selfie Booth",
+        "nameLocal": "Retro booth",
+        "text": "A retro wooden booth with a ring light. Step up, smile, and the print is already coming out. Easy for grandma, easy for the kids.",
+        "alt": "Wooden selfie booth with a ring light and screen at an event"
+      },
+      {
+        "id": "glass",
+        "name": "Glass Prints",
+        "nameLocal": "Printed on glass",
+        "text": "The best shot of the night, printed on glass. A premium keepsake for the hosts that won't get lost in an album.",
+        "alt": ""
+      },
+      {
+        "id": "audio",
+        "name": "Audio Memories",
+        "nameLocal": "Voice guestbook",
+        "text": "Pick up the receiver and leave a message. At the end of the night you get every recording: the laughs, the tears and the things nobody would ever write in a guestbook.",
+        "alt": ""
+      }
+    ]
+  },
+  "decor": {
+    "eyebrow": "Not just a magnet corner",
+    "title": "Built into the décor, a booth becomes an attraction",
+    "text": "Most people book a photo booth and tuck it in a corner. We do it differently: we place the Beetle by the entrance or in front of the view, match it to your event's concept and design the keepsakes in the same style. So it's not a service on the side. It's part of the story.",
+    "points": ["A spot that catches the eye: entrance, dance floor or view", "A photo frame with your colours and names", "Flowers, signs and lighting that tie into your design"],
+    "alt": "Cream Beetle with pink and red flowers on the fender and a warm glow inside"
+  },
+  "statement": {
+    "eyebrow": "21 seconds",
+    "title": "Yes, we really show up in a Beetle.",
+    "text": "And yes, everyone says wow at the end.",
+    "alt": "Vintage Beetle on a red carpet on the Ashkelon promenade at sunset"
+  },
+  "packages": {
+    "eyebrow": "Packages",
+    "title": "Choose your experience",
+    "intro": "Three packages that adapt to any event. Each one includes a custom photo design and one of our team on site for the whole event.",
+    "from": "From ",
+    "onRequest": "Priced per event",
+    "hours": "{n} hours on site",
+    "includesTitle": "Included",
+    "popular": "Most booked",
+    "book": "Reserve a date",
+    "optionsTitle": "Add-ons for any package",
+    "perHour": "per hour",
+    "note": "The final price depends on the date, location and hours. Send a request and we'll come back with a clear quote.",
+    "includes": {
+      "beetle": "The Beetle on site, styled into your décor",
+      "selfieBooth": "Selfie booth with ring light",
+      "magnetsUnlimited": "Unlimited magnet prints",
+      "frameNames": "Frame design with your names and date",
+      "audio": "Audio Memories voice guestbook",
+      "glassHosts": "Glass print for the hosts",
+      "redCarpet": "Red carpet and stanchions",
+      "props": "Props and funny signs",
+      "host": "A dedicated host all event long",
+      "gallery": "Digital gallery of every photo"
+    },
+    "options": {
+      "extraHour": "Extra hour",
+      "album": "Guestbook album with a copy of every photo",
+      "customFrame": "Bespoke frame design to match your concept",
+      "glassPrints": "Glass prints",
+      "audio": "Audio Memories",
+      "redCarpet": "Red carpet and stanchions"
+    }
+  },
+  "events": {
+    "eyebrow": "Events",
+    "title": "What are you celebrating?",
+    "intro": "Indoors or out, day or night, from weddings to a city festival on the beach.",
+    "items": [
+      { "id": "wedding", "name": "Weddings", "text": "The Beetle at the entrance, magnets waiting for guests on the way out.", "alt": "The Beetle lit up at an evening wedding with a Mr & Mrs sign" },
+      { "id": "mitzvah", "name": "Bar & bat mitzvahs", "text": "All the friends squeeze in. The laughter's already in the photo.", "alt": "Teenagers laughing inside the Beetle" },
+      { "id": "brit", "name": "Brit & baby namings", "text": "Everyone brings a photographer. Not everyone brings the thing guests keep talking about.", "alt": "Wooden selfie booth next to a balloon arch and teddy bears at a brit" },
+      { "id": "birthday", "name": "Birthdays", "text": "Turning 1 or turning 40, a print in everyone's hand.", "alt": "Printed photos from a birthday party" },
+      { "id": "purim", "name": "Purim & parties", "text": "Costumes, props and a queue that never ends.", "alt": "Kids with funny props inside the Beetle" },
+      { "id": "corporate", "name": "Corporate events", "text": "Launches, conferences and team nights, with your branding on every print.", "alt": "Branded photo strip from a launch event" },
+      { "id": "municipal", "name": "City & outdoor events", "text": "On the beach, in a park or a town square. Like Tu B'Av on the beaches of Ashkelon.", "alt": "Setting up the Beetle on a red carpet on the Ashkelon promenade" },
+      { "id": "summer", "name": "Daytime & summer", "text": "Natural light, the sea and a sunset. The Beetle knows its angles.", "alt": "A baby sitting on the Beetle's hood by the sea at sunset" }
+    ]
+  },
+  "steps": {
+    "eyebrow": "How it works",
+    "title": "Four steps, zero headaches",
+    "items": [
+      { "title": "Check your date", "text": "Pick a day on the calendar and we confirm the Beetle is free." },
+      { "title": "Package and design", "text": "We choose the package together and design your photo frame with your names, date and colours." },
+      { "title": "The Beetle arrives", "text": "We get there before your guests, set up and blend into the décor. You don't lift a finger." },
+      { "title": "Guests leave with keepsakes", "text": "Prints in hand, voice messages and moments that last long after the music stops." }
+    ]
+  },
+  "story": {
+    "eyebrow": "Our story",
+    "title": "How it all started",
+    "paragraphs": [
+      "A little vintage, a lot of character, and two people who went slightly overboard with their dream.",
+      "Our Beetle didn't always look like this. Before the magic it was rusty, with peeling paint and a tired steering wheel. We took it apart, sanded it down, reupholstered it in cream leather, added warm lighting and built a photo booth inside. Behind every small detail is Adir, who built it all with his own hands.",
+      "And behind the Beetle is a married couple, a little crazy, who simply love what they do. For us it's never just another booking. It's the moment someone climbs in, looks around and says: wow."
+    ],
+    "quote": "POV: it's 2026, but you booked a photo booth that took you back in time.",
+    "altBefore": "The Beetle's interior before restoration: rusty metal and an old steering wheel",
+    "altWork": "Adir fitting the new cream seat inside the Beetle",
+    "altFounder": "Adir standing next to the Beetle"
+  },
+  "gallery": {
+    "eyebrow": "Keepsakes",
+    "title": "Moments that stay",
+    "open": "Enlarge photo",
+    "close": "Close",
+    "prev": "Previous photo",
+    "next": "Next photo",
+    "alts": [
+      "Two photo strips of a couple with white bows",
+      "Girls laughing inside the Beetle at sunset",
+      "Photo strips on kraft card with dried flowers",
+      "Kids with funny props inside the Beetle",
+      "Photo strip with a flower crown",
+      "Friends posing together in front of a brick wall",
+      "Photo strips on black card with bows",
+      "Baby sitting on the Beetle's hood at sunset",
+      "Girl holding a fan of photo strips",
+      "Photo strips from a bat mitzvah",
+      "Photo strip held up against a sunset over the sea",
+      "The ring light inside the Beetle with props",
+      "Branded photo strip at a launch event",
+      "Photo strips on the Beetle's hood next to flowers"
+    ]
+  },
+  "trust": {
+    "eyebrow": "Trusted by",
+    "title": "We've been there",
+    "items": [
+      { "title": "Raz & Naama's wedding", "place": "September 2025", "text": "The Beetle welcomed the couple and their guests at the entrance, with the wedding sign and a QR code to the gallery.", "alt": "The groom opening the Beetle's door for the bride next to Raz and Naama's wedding sign" },
+      { "title": "Tu B'Av on Ashkelon's beaches", "place": "With the Municipality of Ashkelon", "text": "A red carpet on the promenade, thousands of smiles and a small keepsake for every couple, family and group of friends.", "alt": "A guest walking down the red carpet to the Beetle on the Ashkelon beachfront" },
+      { "title": "Shira's bat mitzvah", "place": "Selfie booth", "text": "All the friends, all the laughs, and everyone went home with a print.", "alt": "Number balloon and décor at Shira's bat mitzvah" }
+    ],
+    "reviewsTitle": "What people say"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Everything you wanted to know",
+    "items": [
+      { "q": "How much space do you need?", "a": "The Beetle needs a flat surface and vehicle access, roughly a parking space with a bit of room around it. The selfie booth needs about two by two metres. We'll check the venue with you beforehand." },
+      { "q": "Do you need electricity?", "a": "Yes, a standard socket close to where we'll stand. If there isn't one, let us know and we'll find a solution." },
+      { "q": "How long does setup take?", "a": "We arrive before your guests and are ready before the event starts. You don't need to do anything." },
+      { "q": "Where do you travel?", "a": "We come to events across Israel. Travel costs depend on distance and are spelled out in your quote." },
+      { "q": "Can it be outdoors?", "a": "Absolutely. We've done beaches, gardens and halls. Outdoors we need stable ground, and if rain is forecast we'll plan a covered spot." },
+      { "q": "How far ahead should we book?", "a": "As early as you can. In wedding season dates go months in advance. Check the calendar to see if yours is still free." }
+    ]
+  },
+  "booking": {
+    "eyebrow": "Reserve a date",
+    "title": "Let's see if the Beetle is free",
+    "intro": "Pick a date, tell us about your event and we'll get back to you on WhatsApp with a confirmation and a quote. No commitment.",
+    "stepDate": "Date",
+    "stepEvent": "Your event",
+    "stepPackage": "Package",
+    "stepFrame": "Photo design",
+    "stepContact": "Contact details",
+    "calendar": {
+      "prev": "Previous month",
+      "next": "Next month",
+      "available": "Free",
+      "booked": "Booked",
+      "selected": "Selected",
+      "weekdays": ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"],
+      "chosen": "Your date: {date}",
+      "none": "No date selected yet",
+      "bookedNote": "This date is already booked. Write to us anyway, sometimes there's a way."
+    },
+    "fields": {
+      "eventType": "Type of event",
+      "eventTypeOther": "Other",
+      "timeFrom": "From",
+      "timeTo": "Until",
+      "venue": "Venue",
+      "city": "City",
+      "guests": "Approximate number of guests",
+      "package": "Package",
+      "packageUnsure": "Not sure yet, recommend one",
+      "options": "Add-ons",
+      "frameNames": "Names on the photo",
+      "frameNamesHint": "e.g. Raz & Naama",
+      "frameDate": "Date on the photo",
+      "frameColors": "Colours or concept",
+      "frameColorsHint": "e.g. white, olive green and gold",
+      "name": "Full name",
+      "phone": "Phone",
+      "email": "Email (for your confirmation)",
+      "notes": "Notes",
+      "choose": "Choose"
+    },
+    "submit": "Send request on WhatsApp",
+    "sending": "Sending…",
+    "privacy": "Your details are only used to get back to you about your event.",
+    "successTitle": "Your request is on its way",
+    "successText": "WhatsApp opened with all the details. Send the message and we'll reply shortly. If it didn't open:",
+    "successLink": "Open WhatsApp",
+    "again": "New request",
+    "depositTitle": "Want to lock it in now?",
+    "depositText": "A {amount} deposit holds your date. The balance is due on the day.",
+    "depositButton": "Pay deposit",
+    "errors": {
+      "date": "Pick a date on the calendar",
+      "required": "Required",
+      "phone": "This phone number doesn't look right",
+      "email": "This email address doesn't look right",
+      "deposit": "Payment isn't available right now. You can send your request on WhatsApp."
+    },
+    "message": {
+      "title": "New request from the website · Beetle Booth",
+      "event": "Event",
+      "date": "Date",
+      "time": "Hours",
+      "venue": "Venue",
+      "guests": "Guests",
+      "package": "Package",
+      "options": "Add-ons",
+      "frame": "Photo design",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "notes": "Notes",
+      "ref": "Request no.",
+      "closing": "Could you let me know if the date is free and the price? Thanks!"
+    }
+  },
+  "footer": {
+    "areasTitle": "Where we go",
+    "areas": "Events across Israel",
+    "contactTitle": "Talk to us",
+    "followTitle": "Follow us",
+    "rights": "All rights reserved",
+    "businessId": "Business no.",
+    "legal": "Spotted a problem on the site? Message us on WhatsApp and we'll fix it.",
+    "photos": "Every photo on this site was taken at our events."
+  },
+  "whatsapp": {
+    "float": "Chat on WhatsApp",
+    "hello": "Hi! I found you through the Beetle Booth website and I'd like to check a date"
+  },
+  "email": {
+    "subjectBusiness": "New booking request from the website",
+    "subjectClient": "We received your request · Beetle Booth",
+    "intro": "Hi, thanks for reaching out! We received your request and will get back to you on WhatsApp shortly. Here's what you sent us:"
+  },
+  "notFound": {
+    "title": "The Beetle took a wrong turn",
+    "text": "The page you're looking for doesn't exist. Let's get back on the main road.",
+    "back": "Back to home"
+  }
+}

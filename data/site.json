@@ -1,0 +1,15 @@
+{
+  "_README": "Infos générales. Les champs null sont À REMPLIR (ils sont masqués sur le site tant qu'ils sont vides).",
+  "url": "https://beetle-booth.vercel.app",
+  "name": "Beetle Booth",
+  "nameHe": "חיפושיצילום",
+  "tagline": "VINTAGE STYLE • MODERN MEMORIES",
+  "whatsapp": "972533070669",
+  "phoneDisplay": "053-307-0669",
+  "phoneIntl": "+972 53-307-0669",
+  "instagram": "https://www.instagram.com/beetle.booth/",
+  "instagramHandle": "@beetle.booth",
+  "email": null,
+  "businessId": null,
+  "_deposit": "Acompte en ligne désactivé par défaut. Pour l'activer avec Stripe : NEXT_PUBLIC_DEPOSIT_MODE=stripe + STRIPE_SECRET_KEY, et pricesConfirmed=true + deposit dans packages.json. Cardcom / Tranzila / Meshulam-Grow : à brancher dans app/api/deposit/route.ts une fois le prestataire choisi."
+}
